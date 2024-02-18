@@ -1,0 +1,11 @@
+**/node_modules
+**/vendor
+.dockerignore
+.git
+.github
+.vscode
+bin
+data
+dockerfiles
+docs
+log
